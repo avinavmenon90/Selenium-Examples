@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11267" started-at="2021-08-03T03:09:14Z" finished-at="2021-08-03T03:09:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11267" started-at="2021-08-03T03:09:14Z" finished-at="2021-08-03T03:09:25Z">
+      <class name="com.selenium.HeadlessBrowserHTLMUnitTest">
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.selenium.HeadlessBrowserHTLMUnitTest@3e77a1ed]" name="googleTest" duration-ms="6264" started-at="2021-08-03T03:09:14Z" finished-at="2021-08-03T03:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.selenium.HeadlessBrowserHTLMUnitTest@3e77a1ed]" name="homePage" duration-ms="4970" started-at="2021-08-03T03:09:21Z" finished-at="2021-08-03T03:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+      </class> <!-- com.selenium.HeadlessBrowserHTLMUnitTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

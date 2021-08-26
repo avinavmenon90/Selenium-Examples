@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite Name here">
+
+	<test name="Test Name here">
+	
+		<classes>
+			<class name="com.selenium.GoogleTest"/>
+			<class name="com.selenium.TestNGBasics"/>
+			<class name="com.selenium.TestNGFeatures"/>
+		
+		</classes>
+		
+	</test>
+
+</suite>

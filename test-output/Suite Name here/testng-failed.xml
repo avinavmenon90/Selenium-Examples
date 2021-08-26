@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite Name here]">
+  <test thread-count="5" name="Test Name here(failed)">
+    <classes>
+      <class name="com.selenium.TestNGFeatures">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.selenium.TestNGFeatures -->
+    </classes>
+  </test> <!-- Test Name here(failed) -->
+</suite> <!-- Failed suite [Suite Name here] -->
